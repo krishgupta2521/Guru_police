@@ -13,6 +13,8 @@ Open a new normal PowerShell and go to your project folder:
 cd C:\Users\krish\Documents\gp_pro
 .\detector-env\Scripts\Activate.ps1
 
+Once it activates, your prompt will look like this:
+(detector-env) PS C:\Users\krish\Documents\gp_pro>
 
 
 All the Requirements 
