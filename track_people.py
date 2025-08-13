@@ -11,6 +11,7 @@ from suspicious_logic import SuspiciousDetector
 import pandas as pd
 import numpy as np
 from collections import deque
+np.float = float
 
 # === CONFIG ===
 VIDEO_SOURCE = 'videos/sample.mp4'
